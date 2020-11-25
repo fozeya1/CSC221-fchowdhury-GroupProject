@@ -9,7 +9,7 @@ __Webscraped URL:__ [Wiki page for WA](https://en.wikipedia.org/wiki/Washington_
 
 __Collaborators:__
 
-- Eric Bulson
+- Eric Bulson Accepted
 - John Clark
 - Kent Butler
 - Seth Butler-Hargett
