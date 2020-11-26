@@ -11,5 +11,5 @@ __Collaborators:__
 
 - Eric Bulson Accepted
 - John Clark
-- Kent Butler
+- Kent Butler Accepted
 - Seth Butler-Hargett
