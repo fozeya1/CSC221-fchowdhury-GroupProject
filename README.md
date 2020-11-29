@@ -12,4 +12,4 @@ __Collaborators:__
 - Eric Bulson Accepted
 - John Clark-Accepted
 - Kent Butler Accepted
-- Seth Butler-Hargett
+- Seth Butler-Hargett - Accepted
