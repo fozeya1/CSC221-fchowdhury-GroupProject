@@ -5,7 +5,7 @@ __Owner:__ Fozeya Chowdhury fchowdhury@my.waketech.edu
 
 __Project Description:__ This program will scrape Virginia State's racial breakdown of population from the state's wiki page. 
 
-__Webscraped URL:__ [Wiki page for VA](https://en.wikipedia.org/wiki/New_Jersey)
+__Webscraped URL:__ [Wiki page for VA](https://en.wikipedia.org/wiki/virgina)
 
 __Collaborators:__
 
