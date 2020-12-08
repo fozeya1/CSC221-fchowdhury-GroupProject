@@ -3,9 +3,9 @@ Web Scraping Project for CSC221 2020FA
 
 __Owner:__ Fozeya Chowdhury fchowdhury@my.waketech.edu
 
-__Project Description:__ This program will scrape Virginia State's racial breakdown of population from the state's wiki page. 
+__Project Description:__ This program will scrape New Jersey State's racial breakdown of population from the state's wiki page. The data will then be used to generate a graph of the high and low temperatures. 
 
-__Webscraped URL:__ [Wiki page for VA](https://en.wikipedia.org/wiki/virgina)
+__Webscraped URL:__ [Wiki page for NJ](https://en.wikipedia.org/wiki/Climate_of_New_Jersey)
 
 __Collaborators:__
 
